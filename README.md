@@ -1,6 +1,6 @@
 ## Branching 
 
-this will list ways to branch, and notes on branching.
+this will list ways to branch, and notes on branching, and commands.
 
 'git brnach" will list branches.
 
